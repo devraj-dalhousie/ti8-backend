@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.dal.ti8</groupId>
-    <artifactId>diet</artifactId>
+    <artifactId>admix</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -68,13 +68,10 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>2.4.0</version>
                 <configuration>
-                    <mainClass>com.dal.hiree.Main</mainClass>
+                    <mainClass>com.dal.diet.Main</mainClass>
                     <layout>ZIP</layout>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-
-
-
 </project>
