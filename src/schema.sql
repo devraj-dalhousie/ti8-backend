@@ -11,3 +11,16 @@ CREATE TABLE IF NOT EXISTS Profile (
 
 
 
+CREATE TABLE IF NOT EXISTS HealthDetails(
+       id INT AUTO_INCREMENT PRIMARY KEY,
+       email VARCHAR(255) NOT NULL UNIQUE,
+       age FLOAT,
+       weight FLOAT,
+       height FLOAT,
+       gender VARCHAR(20),
+       doYouDrink VARCHAR(20),
+       doYouSmoke VARCHAR(20),
+       doYouWearWearables BOOLEAN,
+       wearableDevice VARCHAR(50),
+       healthGoals VARCHAR(50)
+);

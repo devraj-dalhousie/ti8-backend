@@ -1,6 +1,7 @@
 package com.dal.diet.controller;
 
 import com.dal.diet.dao.ProfileDao;
+import com.dal.diet.entity.HealthDetails;
 import com.dal.diet.entity.LoginRequest;
 import com.dal.diet.entity.Profile;
 import com.fasterxml.jackson.core.JsonProcessingException;
@@ -32,7 +33,7 @@ public class ProfileController {
             return getJson(createdProfile);
         } catch (JsonProcessingException throwables) {
             throwables.printStackTrace();
-            return "Error while creating candidate object";
+            return "Error while creating profile object";
         } catch (SQLException | ClassNotFoundException exception) {
             exception.printStackTrace();
         }
@@ -55,8 +56,28 @@ public class ProfileController {
         return "Login successful";
     }
 
+    @RequestMapping(value = "/health", method = RequestMethod.POST, consumes = MediaType.APPLICATION_JSON_VALUE)
+    public String createHealthDetails(@RequestBody HealthDetails healthDetails) {
+        try {
+            ProfileDao profileDao = new ProfileDao();
+            HealthDetails createdHealthDetails = profileDao.createHealthDetails(healthDetails);
+            return getJson(createdHealthDetails);
+        } catch (JsonProcessingException throwables) {
+            throwables.printStackTrace();
+            return "Error while creating health details";
+        } catch (SQLException | ClassNotFoundException exception) {
+            exception.printStackTrace();
+        }
+        return "";
+    }
+
     private String getJson(Profile profile) throws JsonProcessingException {
         ObjectMapper objectMapper = new ObjectMapper();
         return objectMapper.writeValueAsString(profile);
+    }
+
+    private String getJson(HealthDetails healthDetails) throws JsonProcessingException {
+        ObjectMapper objectMapper = new ObjectMapper();
+        return objectMapper.writeValueAsString(healthDetails);
     }
 }

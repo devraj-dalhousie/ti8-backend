@@ -8,7 +8,7 @@ public class DBHelper {
     private static DBHelper dbHelper;
     private final String DB_HOST = "localhost";
     private final String DEFAULT_MYSQL_USERNAME = "root";
-    private final String DEFAULT_MYSQL_PASSWORD = "<>";
+    private final String DEFAULT_MYSQL_PASSWORD = "mysql@789";
     private final String DEFAULT_MYSQL_DATABASE = "admix";
     String database;
     String user;
