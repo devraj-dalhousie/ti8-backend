@@ -36,8 +36,8 @@ public class ProfileController {
             return "Error while creating profile object";
         } catch (SQLException | ClassNotFoundException exception) {
             exception.printStackTrace();
+            return exception.getMessage();
         }
-        return "";
     }
 
     @RequestMapping(value = "/login", method = RequestMethod.POST, consumes = MediaType.APPLICATION_JSON_VALUE)
@@ -67,8 +67,8 @@ public class ProfileController {
             return "Error while creating health details";
         } catch (SQLException | ClassNotFoundException exception) {
             exception.printStackTrace();
+            return exception.getMessage();
         }
-        return "";
     }
 
     private String getJson(Profile profile) throws JsonProcessingException {
