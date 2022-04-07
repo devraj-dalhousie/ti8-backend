@@ -54,5 +54,6 @@ Backend is deployed in Heroku.
 Database is hosted in online MySQL cloud database:
 sql3.freemysqlhosting.net
 <hr/>
-  
+
+
   
