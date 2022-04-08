@@ -15,6 +15,7 @@ import java.util.Map;
 @RestController
 @CrossOrigin
 public class GeneralController {
+	
 
 	private static Map<String, Map<String, List<List<String>>>> fitnessData = new HashMap<String, Map<String, List<List<String>>>>();
 	private static Map<String, Map<String, List<String>>> dietData = new HashMap<String, Map<String, List<String>>>();
