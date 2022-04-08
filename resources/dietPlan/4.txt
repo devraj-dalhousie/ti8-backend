@@ -1,0 +1,31 @@
+Diet Plan - Vegeterian - Weight Loss
+Monday, Breakfast, Protein Smoothie
+Monday, Lunch, Bean Burrito
+Monday, Dinner, BBQ Cauliflower Quinoa
+Monday, Snack 1, Apple
+Monday, Snack 2, 1 Cup Pumpkin Seeds
+Tuesday, Breakfast, Protein Smoothie Tofu Scramble
+Tuesday, Lunch, Cold Sesame Noodles
+Tuesday, Dinner, Salad Pizza
+Tuesday, Snack 1, Homemade Trail Mix
+Tuesday, Snack 2, Avocado Toast
+Wednesday, Breakfast, Protein Smooth Oatmeal
+Wednesday, Lunch, Garden Omelet
+Wednesday, Dinner, Baked Asian Tofu
+Wednesday, Snack 1, Apple
+Wednesday, Snack 2, 1/4 Cup Almonds
+Friday, Breakfast, Protein Smooth Avocado Toast
+Friday, Lunch, Baked Potato
+Friday, Dinner, Blue Cheese Dip
+Friday, Snack 1, Nuts in Shell
+Friday, Snack 2, 1 Orange
+Saturday, Breakfast, Protein Smoothei Craig McMuffin
+Saturday, Lunch, Power Salad
+Saturday, Dinner, Portbella
+Saturday, Snack 1, Banana
+Saturday, Snack 2, Greek Yogurt
+Sunday, Breakfast, Protein Smoothie Joy's Protein Pancakes
+Sunday, Lunch, Chinese Takeout
+Sunday, Dinner, Veggie Burgers
+Sunday, Snack 1, Lentil
+Sunday, Snack 2, Chocolate Protein Muffin

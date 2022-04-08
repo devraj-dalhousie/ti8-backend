@@ -1,0 +1,36 @@
+Weight Loss - 40-50
+Monday, Elliptical, 1, 1, 1
+Monday, Stair Climber, 1, 1, 1
+Monday, Deadlifts, 12-15, 3, 1
+Monday, Skull Crushers, 10-12, 1, 1
+Monday, Machine Rows, 10-12, 3, 1
+Tuesday, Bear Crawl, 1, 1, 1
+Tuesday, Jumping Jacks, 1, 1, 1
+Tuesday, Tricep Extensions, 12-15, 3, 2
+Tuesday, Dumbell Curls, 10-12, 2, 1
+Tuesday, Standing Calf Raises, 10-12, 2, 1
+Wednesday, Treadmill, 1, 1, 1
+Wednesday, Dumbell Curls, 12, 2, 1
+Wednesday, Raised Bars, 12-15, 2, 1
+Wednesday, Russian Squats, 10-12, 2, 1
+Wednesday, Leg Press, 12, 4, 1
+Thursday, Rowing Machine, 10-12, 2, 1
+Thursday, Cable or Machine Rows, 12, 2, 2
+Thursday, Lunges, 10-12, 3 1
+Thursday, Bench Curls, 10-12, 2, 1
+Thursday, Russian Press, 10-12, 3, 1
+Friday, Indian Squats, 10-12, 4, 1
+Friday, Leg Extensions, 12, 2, 1
+Friday, Calf Raises, 12-15, 2, 1
+Friday, Pullups, 10-12, 2, 1
+Friday, Leg Strained Pullups, 12, 1, 1
+Saturday, Swimming, 10-12, 2, 1
+Saturday, Barbell Rows, 12-15, 3, 2
+Saturday, Leg Curls, 12, 2, 1
+Saturday, Squats, 10-12, 2, 1
+Saturday, Leg Pumps, 12, 3, 1
+Sunday, Jogging, 12-15, 2, 1
+Sunday, Pushdowns, 10-12, 2, 1
+Sunday, Cable or Machine Rows, 12, 3, 2
+Sunday, Dips, 12, 3, 2
+Sunday, Latches, 12, 3, 2

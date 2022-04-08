@@ -1,0 +1,36 @@
+Weight Loss - 16 -30
+Monday, Running, 1, 1, 1
+Monday, Upright Rows, 12, 2, 1
+Monday, Overhead Press, 12-15, 3, 1
+Monday, Pullovers, 10-12, 1, 1
+Monday, Crunches, 10-12, 3, 1
+Tuesday, High-Intensity Interval Training, 1, 1, 1
+Tuesday, Cable or Machine Rows, 12, 3, 2
+Tuesday, Pulldowns, 12-15, 3, 2
+Tuesday, Bench Press, 10-12, 2, 1
+Tuesday, Standing Calf Raises, 10-12, 2, 1
+Wednesday, Low-Intensity Cardio, 1, 1, 1
+Wednesday, Barbell Rows, 12, 2, 1
+Wednesday, Deadlifts, 12-15, 2, 1
+Wednesday, Underhead Press, 10-12, 2, 1
+Wednesday, Leg Pumps, 12, 4, 1
+Thursday, Squat to Row, 10-12, 2, 1
+Thursday, Cable or Machine Rows, 12, 2, 2
+Thursday, Pushdowns, 10-12, 3 1
+Thursday, Bench Press, 10-12, 2, 1
+Thursday, Russian Press, 10-12, 3, 1
+Friday, Kettle Ball Workout, 10-12, 4, 1
+Friday, Leg Press, 12, 2, 1
+Friday, Calf Half Raises, 12-15, 2, 1
+Friday, Pushups, 10-12, 2, 1
+Friday, Leg Strained Pullups, 12, 1, 1
+Saturday, Machine Stairs, 10-12, 2, 1
+Saturday, Barbell Rows, 12-15, 3, 2
+Saturday, Leg Curls, 12, 2, 1
+Saturday, Squats, 10-12, 2, 1
+Saturday, Leg Pumps, 12, 3, 1
+Sunday, Swimming Laps, 3, 2, 1
+Sunday, Pushdowns, 10-12, 2, 1
+Sunday, Cable or Machine Rows, 12, 3, 2
+Sunday, Dips, 12, 3, 2
+Sunday, Latches, 12, 3, 2
