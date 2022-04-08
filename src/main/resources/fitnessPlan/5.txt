@@ -1,4 +1,4 @@
-Weight Loss - 16 -30
+Weight Loss - 16-30
 Monday, Running, 1, 1, 1
 Monday, Upright Rows, 12, 2, 1
 Monday, Overhead Press, 12-15, 3, 1
@@ -16,7 +16,7 @@ Wednesday, Underhead Press, 10-12, 2, 1
 Wednesday, Leg Pumps, 12, 4, 1
 Thursday, Squat to Row, 10-12, 2, 1
 Thursday, Cable or Machine Rows, 12, 2, 2
-Thursday, Pushdowns, 10-12, 3 1
+Thursday, Pushdowns, 10-12, 3, 1
 Thursday, Bench Press, 10-12, 2, 1
 Thursday, Russian Press, 10-12, 3, 1
 Friday, Kettle Ball Workout, 10-12, 4, 1

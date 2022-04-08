@@ -1,4 +1,4 @@
-Weight Loss - 50+
+Weight Loss - 50-100
 Monday, Yoga, 1, 1, 1
 Monday, Walking, 1, 1, 1
 Monday, Pushups, 12-15, 3, 1
@@ -16,7 +16,7 @@ Wednesday, Dips, 10-12, 2, 1
 Wednesday, Leg Press, 12, 4, 1
 Thursday, Jumping Jacks, 10-12, 2, 1
 Thursday, Cable or Machine Rows, 12, 2, 2
-Thursday, Lunges, 10-12, 3 1
+Thursday, Lunges, 10-12, 3, 1
 Thursday, Bench Press, 10-12, 2, 1
 Thursday, Russian Press, 10-12, 3, 1
 Friday, Low Intensity Cardio, 3, 4, 1
