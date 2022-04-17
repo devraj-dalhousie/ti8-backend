@@ -14,9 +14,9 @@ public class DBHelper {
     private final String DEFAULT_MYSQL_DATABASE = "admix";*/
 
     private final String DB_HOST = "sql3.freemysqlhosting.net";
-    private final String DEFAULT_MYSQL_USERNAME = "sql3484246";
-    private final String DEFAULT_MYSQL_PASSWORD = "DjUd6czVjl";
-    private final String DEFAULT_MYSQL_DATABASE = "sql3484246";
+    private final String DEFAULT_MYSQL_USERNAME = "sql3486388";
+    private final String DEFAULT_MYSQL_PASSWORD = "9Ik13bbv2V";
+    private final String DEFAULT_MYSQL_DATABASE = "sql3486388";
 
     String database;
     String user;
